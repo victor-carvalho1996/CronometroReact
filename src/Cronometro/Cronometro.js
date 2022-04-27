@@ -8,11 +8,11 @@ function Cronometro() {
   const [enable, setEnable] = useState(false);
 
 
-    function changeButton() {
+    const changeButton = () => {
         setEnable(!enable);
     }
 
-    function resetTime() {
+    const resetTime = () => {
         setEnable(false);
         setSecond(0);
         setMinute(0)
