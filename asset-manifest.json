@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CronometroReactHooks/static/css/main.b084c648.css",
+    "main.js": "/CronometroReactHooks/static/js/main.a1bf2c48.js",
+    "static/js/787.50378447.chunk.js": "/CronometroReactHooks/static/js/787.50378447.chunk.js",
+    "index.html": "/CronometroReactHooks/index.html",
+    "main.b084c648.css.map": "/CronometroReactHooks/static/css/main.b084c648.css.map",
+    "main.a1bf2c48.js.map": "/CronometroReactHooks/static/js/main.a1bf2c48.js.map",
+    "787.50378447.chunk.js.map": "/CronometroReactHooks/static/js/787.50378447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b084c648.css",
+    "static/js/main.a1bf2c48.js"
+  ]
+}
